@@ -5,7 +5,6 @@ data/train/beyti/beyti72.jpg
 data/train/bulgurPilavi/bulgurpilavi27.jpg
 data/train/adanaKenap/adanakenap37.jpg
 data/train/akcaabatKofte/akcaabatkofte92.jpg
-data/train/.git/HEAD
 data/train/kiymaliPide/kiymalipide37.jpg
 data/train/kunefe/kunefe36.jpg
 data/train/kiymaliPide/kiymalipide28.jpg
@@ -367,7 +366,6 @@ data/train/danaBonfile/danabonfile108.jpg
 data/train/kiymaliPide/kiymalipide90.jpg
 data/train/kadinbuduKofte/kadinbudukofte44.jpg
 data/train/beyti/beyti50.jpg
-data/train/.git/config
 data/train/kadinbuduKofte/kadinbudukofte19.jpg
 data/train/izgaraKofte/izgarakofte56.jpg
 data/train/hamsiTava/hamsitava61.jpg
