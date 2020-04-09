@@ -241,7 +241,6 @@ data/train/akcaabatKofte/akcaabatkofte91.jpg
 data/train/adanaKenap/adanakenap49.jpg
 data/train/beyti/beyti19.jpg
 data/train/cigKofte/cigkofte53.jpg
-data/train/.git/hooks
 data/train/izgaraKofte/izgarakofte6.jpg
 data/train/hamsiPilav/hamsipilav47.jpg
 data/train/ayvaTatlisi/ayvatatlisi56.jpg
@@ -636,7 +635,6 @@ data/train/akcaabatKofte/akcaabatkofte88.jpg
 data/train/izmirKofte/izmirkofte88.jpg
 data/train/cobanSalata/cobansalata43.jpg
 data/train/hamsiTava/hamsitava97.jpg
-data/train/.git/description
 data/train/beyti/beyti68.jpg
 data/train/izmirKofte/izmirkofte10.jpg
 data/train/kunefe/kunefe18.jpg
@@ -903,7 +901,6 @@ data/train/izmirKofte/izmirkofte78.jpg
 data/train/bulgurPilavi/bulgurpilavi8.jpg
 data/train/beyti/beyti71.jpg
 data/train/cobanSalata/cobansalata71.jpg
-data/train/.git/refs
 data/train/adanaKenap/adanakenap5.jpg
 data/train/ayvaTatlisi/ayvatatlisi17.jpg
 data/train/ayvaTatlisi/ayvatatlisi88.jpg
@@ -1170,7 +1167,6 @@ data/train/izmirKofte/izmirkofte33.jpg
 data/train/Gullac/gullac94.jpg
 data/train/cicekDolmasi/cicekdolmasi54.jpg
 data/train/aliNazik/alinazik80.jpg
-data/train/.git/objects
 data/train/cigKofte/cigkofte44.jpg
 data/train/ayvaTatlisi/ayvatatlisi15.jpg
 data/train/ayvaTatlisi/ayvatatlisi18.jpg
@@ -1397,7 +1393,6 @@ data/train/bulgurPilavi/bulgurpilavi83.jpg
 data/train/cigKofte/cigkofte51.jpg
 data/train/Gullac/gullac57.jpg
 data/train/cobanSalata/cobansalata102.jpg
-data/train/.git/info
 data/train/beyti/beyti57.jpg
 data/train/adanaKenap/adanakenap87.jpg
 data/train/akcaabatKofte/akcaabatkofte58.jpg
